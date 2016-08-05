@@ -1,0 +1,44 @@
+_repo: Tremendous-Trifles_8092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: British author G.K. Chesterton was a prolific writer and daringly original
+  thinker who made his mark in virtually every literary genre. The collection Tremendous
+  Trifles highlights a compelling cross-section of Chesterton's body of work, including
+  sketches, essays, and newspaper columns. It's a perfect compendium for new readers
+  and long-time Chesterton buffs alike.
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Preface -- Tremendous trifles -- A piece of chalk -- The secret
+  of a train -- The perfect game -- The extraordinary cabman -- An accident -- The
+  advantages of having one leg -- The end of the world -- In the Place de La Bastille
+  -- On lying in bed -- The twelve men -- The wind and the trees -- The Dickensian
+  -- In topsy-turvy land -- What I found in my pocket -- The dragon''s grandmother
+  -- The red angel -- The tower -- How I met the president -- The giant -- A great
+  man -- The orthodox barber -- The toy theatre -- A tragedy of twopence -- A cab
+  ride across country -- The two noises -- Some policemen and a moral -- The lion
+  -- Humanity: an interlude -- The little birds who won''t sing -- The riddle of the
+  ivy -- The travellers in state -- The prehistoric railway station -- The diabolist
+  -- A glimpse of my country -- A somewhat improbable story -- The shop of ghosts
+  -- The ballade of a strange town -- The mystery of a pageant.'
+title: Tremendous Trifles
+url: http://www.gutenberg.org/ebooks/8092

@@ -1,5 +1,8 @@
 _repo: Tremendous-Trifles_8092
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -16,6 +19,8 @@ description: British author G.K. Chesterton was a prolific writer and daringly o
   Trifles highlights a compelling cross-section of Chesterton's body of work, including
   sketches, essays, and newspaper columns. It's a perfect compendium for new readers
   and long-time Chesterton buffs alike.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8092#Tremendous-Trifles
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
